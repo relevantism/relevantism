@@ -3,7 +3,7 @@
 * Languages
   * Python(Still Learning)
 
-* Intrests
+* interests
   * Cyber Security
 
 * Solo.to
