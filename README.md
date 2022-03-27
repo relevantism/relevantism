@@ -4,7 +4,7 @@
   * Python(Still Learning)
 
 * interests
-  * Cyber Security
+  * Computer Science
 
 * Solo.to
   * [SoloTo](https://solo.to/cls) - @cls
